@@ -40,7 +40,7 @@ Use the Colab file browser (📁 icon on the left) to upload `yolov8_food_detect
 
 **Option B** — Clone from your repo (if applicable):
 ```python
-!git clone https://github.com/<your-username>/AI_Food.git
+!git clone https://github.com/Mohamed-Taha69/AI_Food.git
 %cd AI_Food
 ```
 
